@@ -1,0 +1,9 @@
+C:\Users\JuliaBay\Downloads\Lab8_MVC-master\Lab8_MVC-master\src\WebApplication6\bin\Debug\netcoreapp1.0\WebApplication6.deps.json
+C:\Users\JuliaBay\Downloads\Lab8_MVC-master\Lab8_MVC-master\src\WebApplication6\bin\Debug\netcoreapp1.0\WebApplication6.runtimeconfig.json
+C:\Users\JuliaBay\Downloads\Lab8_MVC-master\Lab8_MVC-master\src\WebApplication6\bin\Debug\netcoreapp1.0\WebApplication6.runtimeconfig.dev.json
+C:\Users\JuliaBay\Downloads\Lab8_MVC-master\Lab8_MVC-master\src\WebApplication6\bin\Debug\netcoreapp1.0\WebApplication6.dll
+C:\Users\JuliaBay\Downloads\Lab8_MVC-master\Lab8_MVC-master\src\WebApplication6\bin\Debug\netcoreapp1.0\WebApplication6.pdb
+C:\Users\JuliaBay\Downloads\Lab8_MVC-master\Lab8_MVC-master\src\WebApplication6\obj\Debug\netcoreapp1.0\WebApplication6.csprojResolveAssemblyReference.cache
+C:\Users\JuliaBay\Downloads\Lab8_MVC-master\Lab8_MVC-master\src\WebApplication6\obj\Debug\netcoreapp1.0\WebApplication6.AssemblyInfo.cs
+C:\Users\JuliaBay\Downloads\Lab8_MVC-master\Lab8_MVC-master\src\WebApplication6\obj\Debug\netcoreapp1.0\WebApplication6.dll
+C:\Users\JuliaBay\Downloads\Lab8_MVC-master\Lab8_MVC-master\src\WebApplication6\obj\Debug\netcoreapp1.0\WebApplication6.pdb
